@@ -1,0 +1,15 @@
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.AssemblyInfoInputs.cache
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.AssemblyInfo.cs
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.csproj.CoreCompileInputs.cache
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.sourcelink.json
+/workspaces/14-question-program-Lorilei-Forbear-Student/bin/Debug/net8.0/14-question-program-Lorilei-Forbear-Student
+/workspaces/14-question-program-Lorilei-Forbear-Student/bin/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.deps.json
+/workspaces/14-question-program-Lorilei-Forbear-Student/bin/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.runtimeconfig.json
+/workspaces/14-question-program-Lorilei-Forbear-Student/bin/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.dll
+/workspaces/14-question-program-Lorilei-Forbear-Student/bin/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.pdb
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.dll
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/refint/14-question-program-Lorilei-Forbear-Student.dll
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.pdb
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/14-question-program-Lorilei-Forbear-Student.genruntimeconfig.cache
+/workspaces/14-question-program-Lorilei-Forbear-Student/obj/Debug/net8.0/ref/14-question-program-Lorilei-Forbear-Student.dll
