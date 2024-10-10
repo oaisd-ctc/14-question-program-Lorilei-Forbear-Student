@@ -36,7 +36,6 @@ public class Program
        Console.WriteLine("Good luck!");
        Console.WriteLine("How many sibligs do you have?");
        string siblingNum = Console.ReadLine();
-       Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + age + " years old. Your eyes are " + eyeColor + ", and your hair is " 
-       hairColor + ". You will be " + (age + 5) + "in 5 years. You have " + siblingNum + " siblings.")
+       Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + age + " years old. Your eyes are " + eyeColor + ", your hair is " + hairColor + ", and you will be  " + (age + 5) + " in 5 years. You have " + siblingNum + " siblings.");
     }
 }
