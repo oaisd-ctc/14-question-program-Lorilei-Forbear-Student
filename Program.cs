@@ -111,6 +111,6 @@ public class Program
 
     public static void DisplaySummaryMessage()
     {
-         Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + age + " years old. Your eyes are " + eyeColor + ", your hair is " + hairColor + ", and you will be  " + (age + 5) + " in 5 years. You have " + siblingNum + " siblings.");
+         Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + ageString + " years old. Your eyes are " + eyeColor + ", your hair is " + hairColor + ", and you will be  " + (age + 5) + " in 5 years. You have " + siblingNum + " siblings.");
     }
 }
