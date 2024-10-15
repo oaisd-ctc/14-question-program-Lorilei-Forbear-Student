@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14-question-program-Lorilei-Forbear-Student")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+641eff98a0344a4efb75b7b3611f6f4b6630a972")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8adf95a99ad976ba7f3ccb4cd5d63204ca1f2b3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("14-question-program-Lorilei-Forbear-Student")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14-question-program-Lorilei-Forbear-Student")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
