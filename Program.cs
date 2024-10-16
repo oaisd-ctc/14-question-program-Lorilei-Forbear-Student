@@ -22,7 +22,7 @@ public class Program
     {
         AskName();
         AskAge();
-        CalculateAgeIn5Years("You will be " + (age + 5) + " in 5 years.");
+        CalculateAgeIn5Years(age);
         AskEyeColor();
         AskHairColor();
         AskShoeSize();
@@ -44,11 +44,13 @@ public class Program
     public static void AskAge()
     {
         Console.WriteLine("How old are you?");
-        ageString = Console.ReadLine();
+        age = Console.ReadLine();
     }
-        public static void CalculateAgeIn5Years(string ageString)
+        public static void CalculateAgeIn5Years(string age)
     {
-        Console.WriteLine("You will be " + (age + 5) + " in 5 years!");
+        int ageIn5Years = int.Parse (age);
+        Console.WriteLine("You will be " + (ageIn5Years + 5) + " in 5 years.");
+
     }
     public static void AskEyeColor()
     {
@@ -110,6 +112,6 @@ public class Program
 
     public static void DisplaySummaryMessage()
     {
-         Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + ageString + " years old. Your eyes are " + eyeColor + ", your hair is " + hairColor + ", and you will be  " + (age + 5) + " in 5 years. You have " + siblingNum + " siblings.");
+         Console.WriteLine("I think I know you a little better now! Your name is " + name + ", and you are " + age + " years old. Your eyes are " + eyeColor + ", your hair is " + hairColor + ", and you will be  " + (age + 5) + " in 5 years. You have " + siblingNum + " siblings.");
     }
 }
